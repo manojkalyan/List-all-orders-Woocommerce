@@ -9,3 +9,5 @@ This Node.js application fetches orders from a WooCommerce store using the WooCo
 ![Uploading S![Screenshot (63)](https://github.com/manojkalyan/List-all-orders-Woocommerce/assets/70328306/412a99d1-5226-4930-a383-3acbc4c39c64)
 creenshot (62).png…]()
 ![Screenshot (62)](https://github.com/manojkalyan/List-all-orders-Woocommerce/assets/70328306/ff276426-bcda-456f-a6c1-0a241a4f34d9)
+# output of only id and created date
+![Screenshot (64)](https://github.com/manojkalyan/List-all-orders-Woocommerce/assets/70328306/e01fabfa-456f-49b2-add4-6ffef59f31ae)
